@@ -1,1 +1,1 @@
-# selenium_corse
+# selenium_course
